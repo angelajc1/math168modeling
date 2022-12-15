@@ -13,6 +13,8 @@ Description of files:
   
   "AndrewsModel.ipynb": SI model with commuter data (Andrew)
   
+  "covidData.ipynb": Generates Covid graph
+  
   Data files:
   
   "Commuting Data.xlsx": commuting data from https://www.census.gov/data/tables/2015/demo/metro-micro/commuting-flows-2015.html
@@ -26,3 +28,5 @@ Description of files:
   "updatedCommutingData.xlsx": Derived from "Commuting Data.xlsx" and scaled to match modern day population values
   
   "covid19probablecases.csv": CSV file derived from "Covid Data.xlsx"
+  
+  "covid.xlsx": Derived from "Covid Data.xlsx"

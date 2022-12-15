@@ -25,3 +25,4 @@ Description of files:
   
   "updatedCommutingData.xlsx": Derived from "Commuting Data.xlsx" and scaled to match modern day population values
   
+  "covid19probablecases.csv": CSV file derived from "Covid Data.xlsx"
